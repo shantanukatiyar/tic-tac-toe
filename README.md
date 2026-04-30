@@ -4,7 +4,7 @@ A modern and interactive Tic Tac Toe game built using **HTML, CSS, and JavaScrip
 
 ## 🚀 Live Demo
 
-👉 https://your-username.github.io/tic-tac-toe/
+👉 https://tic-tac-toe-gamma-olive.vercel.app/
 
 ---
 
